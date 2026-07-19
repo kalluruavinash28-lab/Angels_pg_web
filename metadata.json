@@ -1,0 +1,6 @@
+{
+  "name": "Angels PG for Ladies",
+  "description": "A modern, premium, mobile-friendly room booking and management website for Angels PG for Ladies, featuring custom room lists, a weekly food menu, and an owner dashboard with WhatsApp confirmation notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
